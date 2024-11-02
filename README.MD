@@ -25,7 +25,7 @@ or if you working on Google IDX, just click
       src="https://cdn.idx.dev/btn/open_purple_20.svg">
   </picture>
 </a></p>
-to open this repository on IDX. <strong>And check the 'This is a Flutter app' button!</strong> 
+to open this repository on IDX. <strong>And check the 'This is a Flutter app' button! If you want to use directly on IDX as template, vote my suggestion: https://idx.uservoice.com/forums/953956-general/suggestions/49041032-java-for-android-template</strong> 
 
 ## Getting Started
 
