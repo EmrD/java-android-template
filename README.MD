@@ -25,7 +25,7 @@ or if you working on Google IDX, just click
       src="https://cdn.idx.dev/btn/open_purple_20.svg">
   </picture>
 </a></p>
-to open this repository on IDX. 
+to open this repository on IDX. <strong>And check the 'This is a Flutter app' button!</strong> 
 
 ## Getting Started
 
